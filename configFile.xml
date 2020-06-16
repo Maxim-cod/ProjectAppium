@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<appPackage>il.co.mintapp.buyme</appPackage>
+<appActivity>il.co.mintapp.buyme.activities.common.SplashScreen</appActivity>
+<reportPath>C:\Users\MAXIM\IdeaProjects\ProjectAppium\testReports\testReports.html</reportPath>
+<myFirstName>Maxim</myFirstName>
+<setPrice>100</setPrice>
+<fromWhoTheGift>למי המתנה?</fromWhoTheGift>
+<receiverName>moshe</receiverName>
+<enterBlessing>happy b day</enterBlessing>
+<howToSendText>איך לשלוח</howToSendText>
+<pickMail>jaja174@gmail.com</pickMail>
+<paymentText>תשלום</paymentText>
+<categoryText>גיפט קארד לארוחת בוקר ובתי קפה</categoryText>
+<buyMeText>ב-BUYME תמצאו מאות גיפט קארד למתנות וחוויות, מרשתות האופנה המובילות בישראל, דרך מסעדות שף מפנקות ועד אטרקציות, תרבות ופנאי. 
+המתנה נשלחת ישירות לנייד או למייל של המקבל, בצירוף תמונה וברכה אישית שלכם. 
+רוצים לתת גם וגם? לא צריך לבחור! 
+עם סופר שובר, מקבלי המתנה יוכלו לבחור לעצמם את ה-גיפט קארד שהם הכי רוצים מתוך מאות המתנות שבאתר BUYME. 
+איך מממשים את המתנה? 
+צריך פשוט להציג את ה-גיפט קארד בבית העסק. המתנות שלנו תקפות במבצעים, הנחות ועסקיות. 
+באפליקציה תוכלו לשמור את כל המתנות שקיבלתם, כדי שלא ילכו לאיבוד אף פעם.</buyMeText>
+</config>
